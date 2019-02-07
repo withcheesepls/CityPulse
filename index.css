@@ -13,6 +13,11 @@ p, h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
 .body {
   display: flex;
   justify-content: center;
@@ -37,10 +42,10 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .main-wrapper .box {
   width: 100%;
-  max-width: 300px;
+  max-width: 250px;
   height: 400px;
-  margin: auto;
   position: relative;
+  margin: 40px auto;
 }
 
 .line {
