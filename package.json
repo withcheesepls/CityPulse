@@ -1,0 +1,23 @@
+{
+  "name": "citypulse",
+  "version": "1.0.0",
+  "description": "A website inspired by Uber Design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node -e 'require(`SinglePageDevRefresh`)();'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/withcheesepls/CityPulse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/withcheesepls/CityPulse/issues"
+  },
+  "homepage": "https://github.com/withcheesepls/CityPulse#readme",
+  "devDependencies": {
+    "SinglePageDevRefresh": "git+https://github.com/josuerojasrojas/SinglePageDevRefresh.git"
+  }
+}
